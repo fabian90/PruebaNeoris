@@ -1,0 +1,12 @@
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\bin\Release\net6.0\TransaccionesBancarias.Commons.deps.json
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\bin\Release\net6.0\TransaccionesBancarias.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\bin\Release\net6.0\TransaccionesBancarias.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.csproj.AssemblyReference.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.AssemblyInfoInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.AssemblyInfo.cs
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\refint\TransaccionesBancarias.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\TransaccionesBancarias.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Commons\obj\Release\net6.0\ref\TransaccionesBancarias.Commons.dll

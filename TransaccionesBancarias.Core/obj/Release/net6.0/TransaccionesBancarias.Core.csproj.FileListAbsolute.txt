@@ -1,0 +1,15 @@
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\bin\Release\net6.0\TransaccionesBancarias.Core.deps.json
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\bin\Release\net6.0\TransaccionesBancarias.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\bin\Release\net6.0\TransaccionesBancarias.Core.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\bin\Release\net6.0\TransaccionesBancarias.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\bin\Release\net6.0\TransaccionesBancarias.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.csproj.AssemblyReference.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.AssemblyInfoInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.AssemblyInfo.cs
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.csproj.CopyComplete
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\refint\TransaccionesBancarias.Core.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\TransaccionesBancarias.Core.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaNeoris\TransaccionesBancarias\TransaccionesBancarias.Core\obj\Release\net6.0\ref\TransaccionesBancarias.Core.dll
